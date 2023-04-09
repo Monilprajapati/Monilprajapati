@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Monilprajapati
-- 👀 I’m interested in Web development & Data structures and Algorithms and AI/ML.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Web development & Data structures and Algorithms.
+- 🌱 I’m currently learning React.
+- Also have some curiosity towards AI & ML.
 
 <!---
 Monilprajapati/Monilprajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

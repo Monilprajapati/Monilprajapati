@@ -1,5 +1,4 @@
-
-![Hi 👋🏻 (1)](https://user-images.githubusercontent.com/99136041/232227547-b775713d-8f73-4098-b8e5-473ae5d0eeac.gif)
+![Hi 👋🏻](https://user-images.githubusercontent.com/99136041/232229973-270c5130-30ea-440e-8d2b-fc81bffe3376.gif)
 
 
 

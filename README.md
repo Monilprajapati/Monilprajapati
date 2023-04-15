@@ -37,5 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monilprajapati&show_icons=true&theme=dark&title_color=576cbc&locale=en" alt="monilprajapati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monilprajapati&theme=dark" alt="monilprajapati" /></p>
-![for visiting my profile](https://user-images.githubusercontent.com/99136041/232230715-1a7740c1-acd3-42e6-bbb2-e6523e4fc532.gif)
 

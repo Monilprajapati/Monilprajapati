@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Frontend Development, DSA**
 

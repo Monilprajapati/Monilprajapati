@@ -25,8 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/monilprajapatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monilprajapatii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monil prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monil prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/monil_prajapati_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monil_prajapati_01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monil-prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monil prajapati" height="30" width="40" /></a>
+<a href="https://www.instagram.com/monil_prajapati_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monil_prajapati_01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/monilprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monilprajapati" height="30" width="40" /></a>
 </p>
 

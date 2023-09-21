@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm a Fast learner😉**
 
-- 😀 Interestred in **Open Source🚀, Android 📱, AI & ML 🦾**
+- 😀 Interestred in **Open Source🚀, AI & ML 🦾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,13 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/monilprajapatii" target="blank"><img src="https://img.shields.io/twitter/follow/monilprajapatii?logo=twitter&style=for-the-badge" alt="monilprajapatii" /></a> </p>
 
-- 🔭 I’m currently Learning **Full Stack Development**
+- 🔭 I’m currently Learning **Full Stack Development.**
 
-- 💬 Ask me about **Frontend Development, DSA**
+- 🚀 I’m actively contributing in **Open Source.**
+
+- 💬 Ask me about **Frontend Development, DSA.**
+
+- 🍻 Ready to work on any project **Open for collaboration.**
 
 - 📫 Connect with me **monillprajapatii@gmail.com**
 
-- ⚡ Fun fact **I'm a Fast learner😉**
+- ⚡ Fun fact **I'm a Fast learner😉.**
 
 - 😀 Interestred in **Open Source🚀, AI & ML🦾.**
 

@@ -45,7 +45,9 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/> </a>
+       <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/> </a>
        <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+   <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgrsql" width="40" height="40"/> </a>
 <!--  <a><img src=""/></a> -->
   </p>
 

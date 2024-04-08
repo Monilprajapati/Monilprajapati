@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Learning **Full Stack Development.**
 
-- 🚀 I’m actively contributing in **Open Source.**
+- 🚀 I’m actively contributing in **Open Source Orgs.**
 
 - 💬 Ask me about **Frontend Development, DSA.**
 

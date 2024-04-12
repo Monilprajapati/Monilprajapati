@@ -13,7 +13,7 @@
 
 - 🚀 I’m actively contributing in **Open Source Orgs.**
 
-- 💬 Ask me about **Frontend Development, DSA.**
+- 💬 Ask me about **Frontend & Backend Development, Linux, Designing.**
 
 - 🍻 Ready to work on any project **Open for collaboration.**
 

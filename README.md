@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/monilprajapatii" target="blank"><img src="https://img.shields.io/twitter/follow/monilprajapatii?logo=twitter&style=for-the-badge" alt="monilprajapatii" /></a> </p>
 
-- 🔭 I’m currently Learning **Full Stack Development.**
+- 🔭 I’m a **Full Stack Developer** and learning **DevOps.**
 
 - 🚀 I’m actively contributing in **Open Source Orgs.**
 

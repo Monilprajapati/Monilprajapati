@@ -9,19 +9,20 @@
 
 <p align="left"> <a href="https://twitter.com/monilprajapatii" target="blank"><img src="https://img.shields.io/twitter/follow/monilprajapatii?logo=twitter&style=for-the-badge" alt="monilprajapatii" /></a> </p>
 
-- 🔭 I’m a **Full Stack Developer** and learning **DevOps.**
+### About Me
 
-- 🚀 I’m actively contributing in **Open Source Orgs.**
+- 🔭 I build and scale **full-stack web applications** with a focus on performance and reliability  
+- 🚀 I’ve enjoyed contributing to open source and still do when I can  
+- 💬 Ask me about **frontend architecture, performance, and full-stack development**  
+- 🤝 Open to collaborating on impactful projects — feel free to reach out  
+- ⚡ Fun fact: **I'm a fast learner 😉**  
+- 🧠 Interested in **building meaningful products and exploring AI-driven ideas**
 
-- 💬 Ask me about **Frontend & Backend Development, Linux, Designing.**
-
-- 🍻 Ready to work on any project **Open for collaboration.**
-
-- 📫 Connect with me **<a href="mailto:monillprajapatii@gmail.com">monillprajapatii@gmail.com</a>**
-
-- ⚡ Fun fact **I'm a Fast learner😉.**
-
-- 😀 Interestred in **Open Source🚀, AI & ML🦾.**
+<p align="left">
+  <a href="https://calendar.app.google/YqHdw5tvA9vkAavE6" target="_blank">
+    <img src="https://img.shields.io/badge/Book%2030%20Min%20Call-0A66C2?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

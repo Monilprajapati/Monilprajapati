@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,graphql,firebase" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,nginx,jest,cypress,vite,webpack,eslint,prettier,git,github,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,GCP,aws,azure,vercel,nginx,jest,cypress,vite,webpack,eslint,prettier,git,github,linux,figma" />
 </p>
 
 

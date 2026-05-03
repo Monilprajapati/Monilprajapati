@@ -3,7 +3,7 @@
 
 
 <h1 align="center" style = "bold"><bold>Hi, I'm Monil Prajapati</bold></h1>
-<h3 align="center">A Self taught Developer</h3>
+<h3 align="center">Self-taught developer building scalable and impactful products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monilprajapati&label=Profile%20views&color=772eff&style=flat" alt="monilprajapati" /> </p>
 
